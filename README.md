@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShekharSuthar
+- 👋 Hi, I’m @Shane
 - 👀 I’m interested in diving in Embedded domain
 - 🌱 I’m currently learning C/C++ and Python with seval Embedded developments board 
 
